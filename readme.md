@@ -1,5 +1,8 @@
 # 解决 Web 缓存的 Python 脚本
 
+![web cache killer](http://upyun.luckly-mjw.cn/Assets/cache/011.png)
+
+
 ### 作用
 - 通过脚本，为文件中的 URL 添加版本号，解决移动端使用缓存，不显示最新效果的问题。
 - 添加后缀为「js」「html」「css」「png」「jpg」「jpeg」链接的版本号。
